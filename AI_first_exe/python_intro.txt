@@ -1,0 +1,28 @@
+What is Python Programming Language?
+
+Python is a high-level, easy-to-learn programming language used for a wide range of tasks — from building websites to automating tasks, analyzing data, developing apps, and even powering artificial intelligence.
+
+---
+
+What is Python (in simple terms)?
+
+Python is like the English of programming languages — simple, readable, and very flexible.
+
+---
+
+Why Python is Popular
+
+* Easy to read and write: Looks like plain English, which makes it beginner-friendly.
+* Versatile: Can be used for web development, testing, automation, data analysis, AI, and more.
+* Large community: Lots of tutorials, tools, and libraries are freely available.
+* Cross-platform: Works on Windows, Mac, and Linux.
+
+---
+
+
+How Testers Use Python:
+
+* Write automation scripts using Selenium
+* Create custom test tools
+* Analyze logs and reports
+* Build data-driven test cases

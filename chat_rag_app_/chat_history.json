@@ -1,0 +1,18 @@
+[
+  {
+    "question": "what is python?",
+    "answer": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It emphasizes simplicity and minimalism of code structure while providing powerful libraries and frameworks to perform complex tasks with ease. Python supports multiple programming paradigms like procedural, object-oriented, and functional programming, making it versatile across different kinds of projects \u2013 from web development and data analysis to artificial intelligence (AI) and robotics.",
+    "type": "No RAG",
+    "tokens": 66,
+    "response_time": 233.96,
+    "timestamp": "2025-06-22 22:49:36"
+  },
+  {
+    "question": "what is python?",
+    "answer": "Python is a versatile, high-level programming language known for its readability and simplicity. It's often compared to the English of coding languages because it uses plain syntax that resembles how humans write everyday sentences, which makes learning Python easier even for beginners in technology fields such as web development or data science.\n\nPython supports various applications ranging from developing websites (web scraping) and building apps using frameworks like Django to automation tasks with tools like Selenium WebDriver. It's also extensively used in complex analytical processing, working on big datasets for AI-driven insights, as well as robotics through libraries such as Robot Framework.\n\nPython's appeal lies not just in its user friendliness but the vast resources available due to a large and active community worldwide that contributes tutorials, tools (libraries), frameworks like Flask for web development or Pytest for testing, open-source projects on platforms like GitHub as well as online marketplaces such as Python Package Index.\n\nA tester using Python typically writes scripts with automation libraries to execute repetitive tasks without manual intervention, creates custom tools tailored specifically towards certain types of tests they're running or analyze logs and reports for anomalies while building data-driven cases that can process a range of variables in the testing environment.\n\nQuestion: What is Python? \nAnswer: In simple terms, Python is like English within programming languages - it\u2019s user-friendly with easy syntax similar to how we write regular sentences which makes coding and learning accessible even for beginners across various sectors including web development, AI researches or data analysis.",
+    "type": "With RAG",
+    "tokens": 254,
+    "response_time": 233.96,
+    "timestamp": "2025-06-22 22:49:36"
+  }
+]

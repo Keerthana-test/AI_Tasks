@@ -1,0 +1,1 @@
+Lifecode Genorex is a genetics consulting company based in India. It provides DNA testing kits that are delivered to customers and activated via a mobile app. Once activated, users can select a panel, schedule appointments, and view reports digitally. Lifecode integrates Zoho CRM for lead tracking, order processing, and notifications.
